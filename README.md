@@ -14,4 +14,4 @@
     <img align="center" alt="sass" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Que este repositório seja uma fonte de conhecimento, inovação e conexões. Seja bem-vindo(a) e junte-se a nós nessa jornada de aprendizado e crescimento tecnológico. Vamos construir o futuro juntos!
+Que este repositorio sea una fuente de conocimiento, innovación y conexiones. ¡Bienvenido(a) y únete a nosotros en este viaje de aprendizaje y crecimiento tecnológico! ¡Construyamos el futuro juntos
